@@ -1,4 +1,4 @@
-![image](https://github.com/NekoPii/img/blob/main/img1.png)
+![image](https://github.com/NekoPii/img/blob/main/laopo.jpg)
 
 <!--
 **NekoPii/NekoPii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
